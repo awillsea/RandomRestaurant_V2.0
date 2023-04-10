@@ -4919,11 +4919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\Random_Resturant_V2.0\\Random_Resturant_V2.0\\Random_Resturant_V2.0.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\RandomRestuarantApp\\Random_Resturant_V2.0\\Random_Resturant_V2.0\\Random_Resturant_V2.0.csproj",
       "projectName": "Random_Resturant_V2.0",
-      "projectPath": "C:\\Users\\alexa\\source\\repos\\Random_Resturant_V2.0\\Random_Resturant_V2.0\\Random_Resturant_V2.0.csproj",
+      "projectPath": "C:\\Users\\alexa\\source\\repos\\RandomRestuarantApp\\Random_Resturant_V2.0\\Random_Resturant_V2.0\\Random_Resturant_V2.0.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\source\\repos\\Random_Resturant_V2.0\\Random_Resturant_V2.0\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\source\\repos\\RandomRestuarantApp\\Random_Resturant_V2.0\\Random_Resturant_V2.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
